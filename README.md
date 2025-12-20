@@ -1,4 +1,4 @@
-# 👋 Welcome to my GitHub
+## Hi, I'm Liz!
 
 I'm a Data Analyst passionate about solving complex problems with data. I enjoy working on projects that challenge what I'm learning and push me to develop new technical skills.
 

@@ -13,7 +13,7 @@ I'm a Data Analyst passionate about solving complex problems with data. I enjoy 
 ## 💡 Areas of Interest
 - Predictive modeling & classification
 - Transit systems & geospatial analytics
-- Customer analytics & fraud detection
+- Customer analytics & behavioral insights
 - Data visualization & automated reporting
 
 ---
